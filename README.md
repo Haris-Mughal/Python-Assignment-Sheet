@@ -118,10 +118,10 @@ Here is how to make a **`Key Link`** :
 # `11- Images and Figures with Link` :
 To add an image in markdown, use this syntax :-
 - **Images** *in Link* as :
-> [Haris Mughal](<WhatsApp Image 2023-10-06 at 8.13.23 PM.jpeg>)
+> [Haris Mughal](<file:///E:/Haris/Python%20ka%20Chilla/classess/day-5/markdown/WhatsApp%20Image%202023-10-06%20at%208.13.23%20PM.jpeg>)
 - **Images** *not in Link* as :
 
-![Haris Mughal](<WhatsApp Image 2023-10-06 at 8.13.23 PM.jpeg>)
+![Haris Mughal](<file:///E:/Haris/Python%20ka%20Chilla/classess/day-5/markdown/WhatsApp%20Image%202023-10-06%20at%208.13.23%20PM.jpeg>)
 
 # `12- Adding Code and Code Block` :
 
